@@ -7,4 +7,3 @@ layout: post
 ---
 
 This is an about page.
-hyungwoo idiot.
